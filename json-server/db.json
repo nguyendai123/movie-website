@@ -1,0 +1,154 @@
+{
+  "movieNomination": [
+    { "id": 1,
+    "title": "Her",
+    "img": "img/1.jpeg",
+    "desc": "A lonely writer develops an unlikely relationship with his newly-purchased operating system that's designed to meet his every need.",
+    "href": "https://www.youtube.com/watch?v=dJTU48_yghs" 
+    },
+    { "id": 2,
+    "title": "Star Wars",
+    "img": "img/2.jpeg",
+    "desc": "The saga will end, the story lives forever. Watch the final trailer for #StarWars: #TheRiseOfSkywalker in theaters December 20.",
+    "href": "https://www.youtube.com/watch?v=sGbxmsDFVnE" 
+    },
+    { "id": 3,
+    "title": "Storm",
+    "img": "img/3.jpg",
+    "desc": "From New Line Cinema, in association with Village Roadshow Pictures, comes the tornado disaster film Into the Storm.",
+    "href": "https://www.youtube.com/watch?v=xBH25XxM-7g" 
+    },
+    { "id": 4,
+    "title": "1917",
+    "img": "img/4.jpg",
+    "desc": "Sam Mendes, the Oscar®-winning director of Skyfall, Spectre and American Beauty, brings his singular vision to his World War I epic, 1917. ",
+    "href": "https://www.youtube.com/watch?v=YqNYrYUiMfg" 
+    },
+    { "id": 5,
+    "title": "Avengers",
+    "img": "img/5.jpg",
+    "desc": "There was an idea… Avengers: Infinity War. In theaters April 27.",
+    "href": "https://www.youtube.com/watch?v=6ZfuNTqbHE8" 
+    },
+    { "id": 6,
+    "title": "Synopsis",
+    "img": "https://static.toiimg.com/thumb/msid-93734406,width-219,height-317,imgsize-45519/93734406.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At hic fugit similique accusantium.",
+    "href": "https://youtu.be/oQMc7Sq36mI" 
+    },
+    { "id": 7,
+    "title": "Synopsis",
+    "img": "https://static.toiimg.com/thumb/msid-93734406,width-219,height-317,imgsize-45519/93734406.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At hic fugit similique accusantium.",
+    "href": "https://youtu.be/oQMc7Sq36mI" 
+    }
+  ],
+  "movieHot": [
+    { "id": 1,
+    "title": "Synopsis",
+    "img": "https://static.toiimg.com/thumb/msid-93734406,width-219,height-317,imgsize-45519/93734406.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At hic fugit similique accusantium.",
+    "href": "https://youtu.be/oQMc7Sq36mI" 
+    },
+    { "id": 1,
+    "title": "Synopsis",
+    "img": "https://static.toiimg.com/thumb/msid-93734406,width-219,height-317,imgsize-45519/93734406.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At hic fugit similique accusantium.",
+    "href": "https://youtu.be/oQMc7Sq36mI" 
+    },
+    { "id": 2,
+    "title": "Star Wars",
+    "img": "img/2.jpeg",
+    "desc": "The saga will end, the story lives forever. Watch the final trailer for #StarWars: #TheRiseOfSkywalker in theaters December 20.",
+    "href": "https://www.youtube.com/watch?v=sGbxmsDFVnE" 
+    },
+    { "id": 3,
+    "title": "Storm",
+    "img": "img/3.jpg",
+    "desc": "From New Line Cinema, in association with Village Roadshow Pictures, comes the tornado disaster film Into the Storm.",
+    "href": "https://www.youtube.com/watch?v=xBH25XxM-7g" 
+    },
+    { "id": 4,
+    "title": "1917",
+    "img": "img/4.jpg",
+    "desc": "Sam Mendes, the Oscar®-winning director of Skyfall, Spectre and American Beauty, brings his singular vision to his World War I epic, 1917. ",
+    "href": "https://www.youtube.com/watch?v=YqNYrYUiMfg" 
+    },
+    { "id": 2,
+    "title": "Star Wars",
+    "img": "https://static.toiimg.com/thumb/msid-93734406,width-219,height-317,imgsize-45519/93734406.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At hic fugit similique accusantium.",
+    "href": "https://www.youtube.com/watch?v=6ZfuNTqbHE8" 
+    }
+  ],
+  "movieTheatra": [
+    { "id": 1,
+    "title": "Synopsis",
+    "img": "https://static.toiimg.com/thumb/msid-93734406,width-219,height-317,imgsize-45519/93734406.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At hic fugit similique accusantium.",
+    "href": "https://youtu.be/oQMc7Sq36mI" 
+    },
+    { "id": 5,
+    "title": "Avengers",
+    "img": "img/5.jpg",
+    "desc": "There was an idea… Avengers: Infinity War. In theaters April 27.",
+    "href": "https://www.youtube.com/watch?v=6ZfuNTqbHE8" 
+    },
+    { "id": 2,
+    "title": "Star Wars",
+    "img": "img/2.jpeg",
+    "desc": "The saga will end, the story lives forever. Watch the final trailer for #StarWars: #TheRiseOfSkywalker in theaters December 20.",
+    "href": "https://www.youtube.com/watch?v=sGbxmsDFVnE" 
+    },
+    { "id": 3,
+    "title": "Storm",
+    "img": "img/3.jpg",
+    "desc": "From New Line Cinema, in association with Village Roadshow Pictures, comes the tornado disaster film Into the Storm.",
+    "href": "https://www.youtube.com/watch?v=xBH25XxM-7g" 
+    },
+    { "id": 2,
+    "title": "Star Wars",
+    "img": "https://static.toiimg.com/thumb/msid-93734406,width-219,height-317,imgsize-45519/93734406.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At hic fugit similique accusantium.",
+    "href": "https://www.youtube.com/watch?v=6ZfuNTqbHE8" 
+    }
+  ],
+  "movieComingSoon": [
+    { "id": 1,
+    "title": "Synopsis",
+    "img": "https://static.toiimg.com/thumb/msid-93734406,width-219,height-317,imgsize-45519/93734406.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At hic fugit similique accusantium.",
+    "href": "https://youtu.be/oQMc7Sq36mI" 
+    },
+    { "id": 2,
+    "title": "Star Wars",
+    "img": "https://static.toiimg.com/thumb/msid-93734406,width-219,height-317,imgsize-45519/93734406.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At hic fugit similique accusantium.",
+    "href": "https://www.youtube.com/watch?v=6ZfuNTqbHE8" 
+    },
+    { "id": 3,
+    "title": "Storm",
+    "img": "img/3.jpg",
+    "desc": "From New Line Cinema, in association with Village Roadshow Pictures, comes the tornado disaster film Into the Storm.",
+    "href": "https://www.youtube.com/watch?v=xBH25XxM-7g" 
+    },
+    { "id": 4,
+    "title": "1917",
+    "img": "img/4.jpg",
+    "desc": "Sam Mendes, the Oscar®-winning director of Skyfall, Spectre and American Beauty, brings his singular vision to his World War I epic, 1917. ",
+    "href": "https://www.youtube.com/watch?v=YqNYrYUiMfg" 
+    },
+    { "id": 5,
+    "title": "Avengers",
+    "img": "img/5.jpg",
+    "desc": "There was an idea… Avengers: Infinity War. In theaters April 27.",
+    "href": "https://www.youtube.com/watch?v=6ZfuNTqbHE8" 
+    },
+    { "id": 6,
+    "title": "Synopsis",
+    "img": "https://static.toiimg.com/thumb/msid-93734406,width-219,height-317,imgsize-45519/93734406.jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At hic fugit similique accusantium.",
+    "href": "https://youtu.be/oQMc7Sq36mI" 
+    }
+  ]    
+}
